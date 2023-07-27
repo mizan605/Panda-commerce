@@ -1,3 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    color:#FDAD2E;
+    font-weight: 700;
+}
+a:hover{
+    color:#FDAD2E ;
+}
 .orange-bg{
     background-color:#FEEAE9;
     border-radius: 10px;
@@ -56,4 +67,78 @@
     height:170px;
     border-radius: 20px;
     margin-top: 30px;
+}
+.single-cat h2{
+    color: #FEEAE9;
+}
+.shoe-section{
+    background-color: #F8F8F8;
+    margin-top: 40px;
+    padding-bottom: 40px;
+}
+.shoe-title{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.single-product{
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    box-shadow: 5px 5px 20px #9b8d8d;
+}
+.single-product img{
+    padding: 40px 0px;
+}
+.single-product h5{
+    font-size: 24px;
+    color:#1f1f1f;
+}
+.single-product p{
+    color:#707070;
+}
+.single-product h3{
+    font-size: 24px;
+    font-weight: bold;
+    color:#1f1f1f;
+    padding: 20px 10px;
+}
+.buy-button{
+    color:#ffff;
+    background-color: #000000;
+    padding: 10px 20px;
+    border-radius:10px ;
+    margin-bottom: 20px;
+}
+.subscribe{
+    margin-top: 50px;
+    margin-bottom:70px;
+}
+.subscribe-content{
+    background-color: #FEEAE9;
+    border-radius: 12px;
+}
+.subscriber-full-content{
+    padding: 50px 0px;
+}
+.subscriber-full-content
+h2{
+    font-weight: bold;
+}
+.subscriber-full-content
+p{
+    color:#707070;
+}
+.subscriber-full-content
+.email-sec{
+    padding:10px 60px;
+    outline: none;
+    background-color: #FFFFFF;
+    border: none;
+}
+.subscriber-full-content
+.submit{
+    padding:10px 20px;
+    background-color: #FF3182;
+    color:#FFFFFF;
+    border: none;
+    border-radius: 0px 10px;
 }
